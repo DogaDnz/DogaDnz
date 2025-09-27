@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doga Deniz</h1>
 <h3 align="center">I'm a passionate Software Engineering student who loves building things with code, exploring data, and constantly learning.</h3>
 
-- 🔭 I’m currently working on **Tomato Leaf Diesase Prediction**
+- 🔭 I’m currently working on **Data Analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
